@@ -5,20 +5,14 @@ Introduction
 This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization. What follows first are my notes on the original data.
 
 The original dataset included the following data files:
+
 'features.txt': List of all features.
-
 'activity_labels.txt': List of class labels and their activity name.
-
 'train/X_train.txt': Training set.
-
 'train/y_train.txt': Training labels.
-
 'train/subject_train.txt': ID's of subjects in the training data
-
 'test/X_test.txt': Test set.
-
 'test/y_test.txt': Test labels.
-
 'test/subject_test.txt': ID's of subjects in the training data
 
 About the script and the tidy dataset
