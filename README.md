@@ -1,8 +1,8 @@
-# Getting and Cleaning Data: Course Project at week 3
+# Getting and Cleaning Data: Project at week 3
 
 ## Introduction
 
-##### This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data ##### Science specialization. What follows first are my notes on the original data.
+##### This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization. What follows first are my notes on the original data.
 
 ##### The original dataset included the following data files:
 
